@@ -1,0 +1,15 @@
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Algoritma\obj\Debug\net6.0\Proje-Algoritma.csproj.AssemblyReference.cache
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Algoritma\obj\Debug\net6.0\Proje-Algoritma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Algoritma\obj\Debug\net6.0\Proje-Algoritma.AssemblyInfoInputs.cache
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Algoritma\obj\Debug\net6.0\Proje-Algoritma.AssemblyInfo.cs
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Algoritma\obj\Debug\net6.0\Proje-Algoritma.csproj.CoreCompileInputs.cache
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Algoritma\bin\Debug\net6.0\Proje-Algoritma.exe
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Algoritma\bin\Debug\net6.0\Proje-Algoritma.deps.json
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Algoritma\bin\Debug\net6.0\Proje-Algoritma.runtimeconfig.json
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Algoritma\bin\Debug\net6.0\Proje-Algoritma.dll
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Algoritma\bin\Debug\net6.0\Proje-Algoritma.pdb
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Algoritma\obj\Debug\net6.0\Proje-Algoritma.dll
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Algoritma\obj\Debug\net6.0\refint\Proje-Algoritma.dll
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Algoritma\obj\Debug\net6.0\Proje-Algoritma.pdb
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Algoritma\obj\Debug\net6.0\Proje-Algoritma.genruntimeconfig.cache
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Algoritma\obj\Debug\net6.0\ref\Proje-Algoritma.dll
